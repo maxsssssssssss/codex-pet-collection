@@ -1,0 +1,6 @@
+* text=auto eol=lf
+pets/** -text
+pets/**/pet.json whitespace=cr-at-eol
+*.webp binary
+*.png binary
+*.gif binary
